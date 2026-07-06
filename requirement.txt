@@ -1,0 +1,5 @@
+streamlit>=1.40.0
+yt-dlp>=2025.1.0
+faster-whisper>=1.1.0
+deep-translator>=1.11.4
+gTTS>=2.5.4
